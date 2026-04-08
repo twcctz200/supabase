@@ -13,7 +13,7 @@
     "@types/dat.gui": "^0.7.12",
     "config": "*",
     "dat.gui": "^0.7.9",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "next-themes": "^0.3.0",
     "react-use": "^17.4.0"
   },
