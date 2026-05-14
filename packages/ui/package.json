@@ -121,7 +121,7 @@
     "vitest": "^1.6.0"
   },
   "peerDependencies": {
-    "next": "*",
+    "next": "^15.5.18",
     "react": "*",
     "react-dom": "*"
   }
